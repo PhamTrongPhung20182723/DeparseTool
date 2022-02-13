@@ -1,0 +1,17 @@
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\deparseTool.exe.config
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\deparseTool.exe
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\deparseTool.pdb
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.Form1.resources
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.Properties.Resources.resources
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.exe
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.pdb
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\FireSharp.dll
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\RestSharp.dll
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SONY\source\repos\deparseTool\deparseTool\bin\Debug\RestSharp.xml
+C:\Users\SONY\source\repos\deparseTool\deparseTool\obj\Debug\deparseTool.csproj.CopyComplete
